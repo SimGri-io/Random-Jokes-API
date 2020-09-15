@@ -1,10 +1,24 @@
-Jokes API developed using JavaScript, jokes API, CSS.
+#Jokes API 
 
-Find code gif: https://media.giphy.com/media/h7GKLcEHPfwQaQPXSp/giphy.gif
-See project preview: https://youtu.be/OfJ-_CTgdNw
-Project hosted at: http://rabid-birds.surge.sh/ 
+## Developed using:
+- JavaScript
+- Jokes API
+- CSS
 
-Things to do: use more complex UI using more advanced CSS, Bootstrap, integrate Sass, use folder structure.
+![](https://media.giphy.com/media/h7GKLcEHPfwQaQPXSp/giphy.gif)
+![](https://media.giphy.com/media/Tfjv1iti2dCP98v7FB/giphy.gif)
 
-# Random-Jokes-API
-Javascript
+## See project preview: 
+
+https://youtu.be/OfJ-_CTgdNw
+
+
+## Project hosted at: 
+
+http://rabid-birds.surge.sh/ 
+
+## Things to do: 
+- Use more complex UI using more advanced CSS, Bootstrap, integrate Sass
+- Use folder structure
+
+
