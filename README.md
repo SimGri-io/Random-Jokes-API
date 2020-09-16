@@ -6,7 +6,7 @@
 - CSS
 
 ![](https://media.giphy.com/media/h7GKLcEHPfwQaQPXSp/giphy.gif)
-![](https://media.giphy.com/media/Tfjv1iti2dCP98v7FB/giphy.gif)
+![](https://github.com/SimGri-io/Random-Jokes-API/blob/master/video%20(2).gif)
 
 ## See project preview: 
 
